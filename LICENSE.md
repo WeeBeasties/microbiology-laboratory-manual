@@ -2,7 +2,7 @@ This work is copyright [Creative Commons CC-BY 4.0 International](https://creati
 
 ## Attribution 4.0 International
 
-=======================================================================
+-------
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -18,7 +18,7 @@ Creative Commons public licenses provide a standard set of terms and conditions 
 
 **Considerations for the public**: By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor's permission is not necessary for any reason--for example, because of any applicable exception or limitation to copyright--then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More_considerations for the public: [considerations for lincensees](wiki.creativecommons.org/Considerations_for_licensees).
 
-=======================================================================
+-------
 
 ### Creative Commons Attribution 4.0 International Public License
 
@@ -283,7 +283,7 @@ Rights include other Copyright and Similar Rights.
      processes of any jurisdiction or authority.
 
 
-=======================================================================
+-------
 
 Creative Commons is not a party to its public
 licenses. Notwithstanding, Creative Commons may elect to apply one of
