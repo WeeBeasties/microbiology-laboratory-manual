@@ -14,9 +14,9 @@ information available on an "as-is" basis. Creative Commons gives no warranties 
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
 
-Considerations for licensors: Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. More considerations for licensors: [considerations for licensors](wiki.creativecommons.org/Considerations_for_licensors).
+**Considerations for licensors**: Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. More considerations for licensors: [considerations for licensors](wiki.creativecommons.org/Considerations_for_licensors).
 
-Considerations for the public: By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor's permission is not necessary for any reason--for example, because of any applicable exception or limitation to copyright--then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More_considerations for the public: [considerations for lincensees](wiki.creativecommons.org/Considerations_for_licensees).
+**Considerations for the public**: By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor's permission is not necessary for any reason--for example, because of any applicable exception or limitation to copyright--then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More_considerations for the public: [considerations for lincensees](wiki.creativecommons.org/Considerations_for_licensees).
 
 =======================================================================
 
@@ -38,6 +38,7 @@ Attribution 4.0 International Public License ("Public License"). To the extent t
 <li>Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.  </li>
 <li>Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.  </li>
 <li>You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning. </li> 
+</ol>
 
 **Section 2 -- Scope.**
 
@@ -116,7 +117,7 @@ Attribution 4.0 International Public License ("Public License"). To the extent t
           reserves any right to collect such royalties.
 
 
-Section 3 -- License Conditions.
+**Section 3 -- License Conditions.**
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
@@ -168,7 +169,7 @@ following conditions.
           Material from complying with this Public License.
 
 
-Section 4 -- Sui Generis Database Rights.
+**Section 4 -- Sui Generis Database Rights.**
 
 Where the Licensed Rights include Sui Generis Database Rights that
 apply to Your use of the Licensed Material:
@@ -190,7 +191,7 @@ replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
 
 
-Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+**Section 5 -- Disclaimer of Warranties and Limitation of Liability.**
 
   a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
      EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
@@ -219,7 +220,7 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      waiver of all liability.
 
 
-Section 6 -- Term and Termination.
+**Section 6 -- Term and Termination.**
 
   a. This Public License applies for the term of the Copyright and
      Similar Rights licensed here. However, if You fail to comply with
@@ -248,7 +249,7 @@ Section 6 -- Term and Termination.
      License.
 
 
-Section 7 -- Other Terms and Conditions.
+**Section 7 -- Other Terms and Conditions.**
 
   a. The Licensor shall not be bound by any additional or different
      terms or conditions communicated by You unless expressly agreed.
@@ -258,7 +259,7 @@ Section 7 -- Other Terms and Conditions.
      independent of the terms and conditions of this Public License.
 
 
-Section 8 -- Interpretation.
+**Section 8 -- Interpretation.**
 
   a. For the avoidance of doubt, this Public License does not, and
      shall not be interpreted to, reduce, limit, restrict, or impose
@@ -301,5 +302,5 @@ understandings, or agreements concerning use of licensed material. For
 the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
-Creative Commons may be contacted at creativecommons.org.
+Creative Commons may be contacted at [creativecommons.org](creativecommons.org).
 
