@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [00\) Laboratory Notebook](00_Laboratory_notebook.md)
+* [00\) Laboratory Notebook](00-laboratory-notebook.md)
 * [01\) Laboratory Safety](01-laboratory-safety.md)
 * [02\) Microscopy](02-microscopy.md)
 * [03\) Bacterial Cell Morphology](03-bacterial-cell-morphology.md)
