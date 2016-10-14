@@ -10,7 +10,7 @@ A common means of estimating the number of microbes in a liquid sample is to pla
 
 
 
-In a dilution series, the original microbial suspension is sequentially reduced in several steps. Some people find the calculation of dilutions a little intimidating. Therefore, I will break this mathematic process down into a few simple parts. The first thing to consider is how much dilution is accomplished at each individual step of the serial dilution. The dilution factors of each step may be calculated for any volumes using the tube dilution factor (TDF) formula shown below.
+In a dilution series, the original microbial suspension is sequentially reduced in several steps. Some people find the calculation of dilutions a little intimidating. Therefore, I will break this mathematical process down into a few simple parts. The first thing to consider is how much dilution is accomplished at each individual step of the serial dilution. The dilution factors of each step may be calculated for any volumes using the tube dilution factor (TDF) formula shown below.
 
 $$TDF = \frac{Volume\ Added\ +\ Diluent\ Volume}{Volume\ Added}$$
 
