@@ -12,7 +12,7 @@ In the dilution series illustrated above, each of the tubes has the same dilutio
 
 The series dilution factor (SDF) for any tube is merely the product of all tube dilution factors up to, and including that tube.
 
-Simply put, the SDF for tube C is 10 • 10 • 10 or 1,000. Note that when you multiply exponential numbers with the same base, you add the exponents (10^1 • 10^1 • 10^1 = 10^3).
+Simply put, the SDF for tube C is 10 • 10 • 10 or 1,000. Note that when you multiply exponential numbers with the same base, you add the exponents (10<sup>1</sup> • 10<sup>1</sup> • 10<sup>1</sup> = 10<sup>3</sup>).
 
 The final dilution factor accounts for the fact that we often use more or less than one milliliter from our dilution tubes to inoculate the agar plates. If we choose to use an entire milliliter, this factor would be the same as the SDF. To account for the amount plated, we simply divide the SDF by the volume (in milliliters) used to inoculate the plate. As you can see in our example, each plate was inoculated with 0.1 ml so we would need to divide by that factor - x/0.1 (which is equivalent to 10X). Please note that the unit on the FDF is ml-1 (read this as per milliliter). The other dilution factors do not have units. The final dilution then, is simply the following.
 
