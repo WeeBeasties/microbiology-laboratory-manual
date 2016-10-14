@@ -6,7 +6,11 @@
 
 A common means of estimating the number of microbes in a liquid sample is to plate several known dilutions on agar plates and count the number of resulting colonies. A related method is used to enumerate viruses by counting plaques on a lawn of susceptible host cells. In either case, by finding one or more plates with a countable number of colonies, we may calculate the number of microbes present in the original stock. Typically, microbiologists seek plates with between 30 and 300 colonies or plaques. These numbers allow for statistical significance while still enable accurate counting of discrete and separate colonies. I refer to plates with 30-300 colonies “countable plates”. For our stripes, a countable number would be between 10 and 30. An example of a dilution series is shown below.
 
+
+
 In a dilution series, the original microbial suspension is sequentially reduced in several steps. Some people find the calculation of dilutions a little intimidating. Therefore, I will break this mathematic process down into a few simple parts. The first thing to consider is how much dilution is accomplished at each individual step of the serial dilution. The dilution factors of each step may be calculated for any volumes using the tube dilution factor (TDF) formula shown below.
+
+$$TDF = \frac{Volume\ Added\ +\ Diluent\ Volume}{Volume\ Added}$$
 
 In the dilution series illustrated above, each of the tubes has the same dilution factor. Namely…
 
