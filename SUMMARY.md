@@ -13,4 +13,5 @@
 * [09\) Bacterial Motility](09-bacterial-motility.md)
 * [10\) Protozoa](10-protozoa.md)
 * [11\) Fungal Slide Culture](11-fungal-slide-culture.md)
+* [12\) Viable Bacteria Counts](12-viable-bacteria-counts.md)
 
