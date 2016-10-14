@@ -18,43 +18,41 @@ In the dilution series illustrated above, each of the tubes has the same dilutio
 
 The series dilution factor (SDF) for any tube is merely the product of all tube dilution factors up to, and including that tube.
 
-Simply put, the SDF for tube C is 10 • 10 • 10 or 1,000. Note that when you <u>multiply</u> exponential numbers with the same base, you <u>add</u> the exponents (10<sup>1</sup> • 10<sup>1</sup> • 10<sup>1</sup> = 10<sup>3</sup>).
+Simply put, the SDF for tube C is 10 • 10 • 10 or 1,000. Note that when you _multiply_ exponential numbers with the same base, you _add_ the exponents (10<sup>1</sup> • 10<sup>1</sup> • 10<sup>1</sup> = 10<sup>3</sup>).
 
 The final dilution factor accounts for the fact that we often use more or less than one milliliter from our dilution tubes to inoculate the agar plates. If we choose to use an entire milliliter, this factor would be the same as the SDF. To account for the amount plated, we simply divide the SDF by the volume (in milliliters) used to inoculate the plate. As you can see in our example, each plate was inoculated with 0.1 ml so we would need to divide by that factor - x/0.1 (which is equivalent to 10X). Please note that the unit on the FDF is ml-1 (read this as per milliliter). The other dilution factors do not have units. The final dilution then, is simply the following.
 
-The FDF for plate “C” in our example is 1,000/0.1 ml = 10,000 ml-1 or 104 ml-1. Likewise, the final dilution for plates A and B are 102 ml-1 and 103 ml-1, respectively. We can now estimate the number of bacteria in our original culture using the final dilution factor for the plate giving a countable number of colonies (or plaques). The microbial estimate is the calculated as follows:
+The FDF for plate “C” in our example is 1,000/0.1 ml = 10,000 ml<sup>-1</sup> or 10<sup>4</sup> ml<sup>-1</sup>. Likewise, the final dilution for plates A and B are 102 ml-1 and 103 ml-1, respectively. We can now estimate the number of bacteria in our original culture using the final dilution factor for the plate giving a countable number of colonies (or plaques). The microbial estimate is the calculated as follows:
 
 We can also do the opposite calculations – that is, given an approximation for the CFU/ml in a particular flask, we can predict the number of colonies (or plaques) that should be found on any plate. Using the illustration on page 1 again, let’s assume that there are about 54,000 cfu/ml in the culture flask. How many colonies should be found on plate “C”? What about “B”? To find these answers, we divide the known CFU/ml by the SDF and multiply by the plated volume. Therefore…
 
 ### Instructions
 
-We will work in groups of four (pods) again today. Each group will perform duplicate dilutions of a bacterial culture to determine the number of cfu/ml. To do this, you will perform the following steps.
+We will work in groups of four (pods) again today. Each group will perform duplicate dilutions of a bacterial culture to determine the number of cfu/ml. To do this, you will perform the following steps.    
 
-· Obtain a suspension of Staphylococcus aureus to enumerate.
+1. Obtain a suspension of _Staphylococcus aureus_ to enumerate.  
 
-· We are going to use microtiter plates to set up six 10-1 dilutions.
+2. We are going to use microtiter plates to set up six 10-1 dilutions.  
 
-· Pour about 10 ml of sterile saline into a pipetting tray.
+3. Pour about 10 ml of sterile saline into a pipetting tray.  
 
-· Put six sterile micropipette tips on a multichannel pipetter (don’t contaminate them with your fingers!)
+4. Put six sterile micropipette tips on a multichannel pipetter (don’t contaminate them with your fingers!)  
 
-· Transfer 135µl of saline (50µl + 50µl + 35µl) to 2 empty rows of wells as indicated below.
+5. Transfer 135µl of saline (50µl + 50µl + 35µl) to 2 empty rows of wells as indicated below.  
 
-· Dispose of the used tips in a white plastic cup.
+6. Dispose of the used tips in a white plastic cup.
 
-· Use a single channel pipetter to transfer 15µl of the bacterial suspension to the first dilution well.
+7.  Use a single channel pipetter to transfer 15µl of the bacterial suspension to the first dilution well.
 
-· Mix by gently flushing in and out three times with the pipetter.
+8. Mix by gently flushing in and out three times with the pipetter.
 
-· Push all of the sample out of the pipette tip and remove from the well.
+9. Push all of the sample out of the pipette tip and remove from the well.
 
-· Discard the contaminated tip into a white plastic cup.
+10. Discard the contaminated tip into a white plastic cup.
 
-· Use a fresh tip and repeat steps 7-10 but transfer from well 1 to well 2.
+Use a fresh tip and repeat steps 7-10 but transfer from well 1 to well 2. Repeat to well 6.
 
-· Repeat to well 6.
-
-· Use a second sample of the bacterial suspension to perform a second dilution series.
+Use a second sample of the bacterial suspension to perform a second dilution series.
 
 
 · Use a fresh set of six sterile pipette tips to transfer 5µl from each of the wells in one of your dilutions series to a plate of media. Let the liquid hang as small drops and touch them off onto the agar surface.
