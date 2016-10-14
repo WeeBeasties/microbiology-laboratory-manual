@@ -1,11 +1,5 @@
 {
     "plugins": [
         "katex"
-    ],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "",
-            "useIdentifier": true
-        }
-    }
+    ]
 }
