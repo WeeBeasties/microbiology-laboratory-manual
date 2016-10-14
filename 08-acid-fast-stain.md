@@ -2,6 +2,8 @@
 
 ## **Acid-Fast Stain**
 
+-------------
+
 ### **Background**
 
 The Kinyoun stain is a type of differential stain used to visualize acid-fast bacteria. This will be the third, and final, differential stain that will be used in our labs. The waxy mycolic acids in the cell wall of these microbes prevents most stains from directly binding to them. This procedure is often used to detect pathogens like _Mycobacterium tuberculosis_ and _Mycobacterium leprae_ in clinical samples. There are other types of acid fast stains as well such as Auramine-rhodamine \(a fluorescence stain\) and the Ziehl-Neelsen stain \(which uses heat as a mordant\). The primary stain and mordant are applied together in this protocol. At least 15 minutes is required for decent staining. Longer is better.

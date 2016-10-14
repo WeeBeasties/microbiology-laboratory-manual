@@ -2,6 +2,8 @@
 
 ## How To Keep a Laboratory Notebook  
 
+-------------
+
 ### Introduction to the Notebook  
 
 Like sterile technique, microscopy, or biochemical analyses, keeping a current and accurate notebook is an essential skill in the microbiology laboratory. Your laboratory notebook will fulfill three primary functions in our course. First, it will give you the opportunity to develop a habit of properly documenting your laboratory activities. In a research lab, your notebook would be a permanent legal record of all your work. As such, it would be used to support grant applications, scientific publications, and patent applications by the members of your laboratory. Second, it will serve as your main study resource for the laboratory portion of our course. Your notebook should contain sufficient information to enable you or someone else to understand and reproduce the results of your work at a later date. This will be of particular importance as you review for our comprehensive laboratory practical exam at the end of this term. Finally, your notebook will help me to accurately evaluate your understanding of the laboratory materials and procedures that we use throughout the semester. By periodically collecting and grading your work, I can provide additional feedback to build upon your strengths and reinforce weaker areas so as to improve your learning this semester.

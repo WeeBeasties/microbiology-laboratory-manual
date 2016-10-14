@@ -2,6 +2,8 @@
 
 ## **Bacterial Motility**
 
+-------------
+
 ### **Background**
 
 Flagella are external bacterial structures that enable motility in liquid media. They move the cells by rapidly rotating and providing thrust. Unfortunately, these structures are very thin and fragile. This make direct examination in the lab difficult. We will, therefore, only use prepared slides and observe motility directly. Flagella can be arranged in four different ways as shown below. You will see some of these arrangements today.

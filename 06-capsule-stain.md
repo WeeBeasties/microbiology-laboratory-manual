@@ -2,6 +2,8 @@
 
 ## **Capsule Stain**
 
+-------------
+
 ### **Background**
 
 Most microorganisms are covered by a layer of polysaccharide. This layer varies greatly in its extent between species. Very thin – difficult to detect – layers are referred to as a glycocalyx. Much more robust layers are called capsules. The primary function of a microbial capsule is to evade phagocytosis. Secondary functions of capsules include aggregation of cells, biofilm formation, and attachment to some surfaces. Most mucosal pathogens employ capsules as one of their main virulence factors.

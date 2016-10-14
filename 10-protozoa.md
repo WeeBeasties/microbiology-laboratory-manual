@@ -2,6 +2,8 @@
 
 ## **Protozoa**
 
+-------------
+
 ### **Background**
 
 The protozoa are single-celled, non-photosynthetic, primarily free-living organisms. While they do not possess a cell wall, many are covered by a series of flexible protein strips called the **pellicle**. The pellicle maintains the cell’s shape and provides strength while remaining flexible. Members of the protozoa include several important human pathogens. These cells can reproduce asexually by binary fission either longitudinally \(lengthwise\) or laterally \(widthwise\). Some members of the protozoa can also undergo a type of sexual reproduction. The protozoan life cycle is **polymorphic** \(having more than one stage\). The infective form, or resting form, is the **cyst**. This stage is resistant to heat, acid, and drying – but less so than a bacterial endospore. If the cyst is ingested, the active form - the **trophozoite** - will grow out. This stage actively grows and reproduces. Under unfavorable conditions, the trophozoites will form cysts, which rest in the environment until favorable conditions for growth are again encountered. In addition, many protozoa are also **pleomorphic** \(having more than one trophozoite form\). The protozoa have traditionally been classified into four groups based upon their mechanism of motility – the amoeba, the ciliates, the flagellates, and the non-motile organisms. However, recent taxonomic work has revealed the protists to be polyphyletic \(they are split amongst many different groups that are only distantly related genetically\). Some of the more important of these groups are discussed below.

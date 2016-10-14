@@ -2,6 +2,8 @@
 
 ## **Aseptic Technique**
 
+-------------
+
 ### **Background**
 
 Accurate characterization and identification of microbes relies upon access to pure cultures. Unfortunately, microbial cultures are nearly always complex mixtures in nature. During the “Golden Age” of microbiology \(19th century\), many different groups worked to find efficient means to isolate single microbes from these mixed communities. In Koch’s laboratory, agar was used to make irreversible solid media for the first time. This allowed microbiologists to easily isolate bacteria by streaking. Streaking for isolation is a form of dilution on a solid surface. use and storage of our microscopes. You will be practicing this technique today with a simple mixed culture of bacteria.

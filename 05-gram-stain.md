@@ -2,6 +2,8 @@
 
 ## **Gram Stain**
 
+-------------
+
 ### **Background**
 
 The Gram stain was devised by a Danish physician, Hans Christian Gram, while he was working in Berlin in 1883. At the time, Dr. Gram was studying lung tissue sections from patients who had died of pneumonia. He was frustrated by the fact that common tissue staining procedures were inadequate to differentiate between host cells and microbial pathogens. So he set out to devise a more efficacious stain. Through a process of experimentation, Dr. Gram discovered that Gentian \(crystal\) violet and a solution of iodine mixed with potassium iodide formed a water-insoluble precipitate. This precipitate could be removed from host tissues and some microbial cells by an alcohol rinse. Many other microbes, however, retained the stain complex. This stain quickly became one of the main techniques used to initially characterize bacterial isolates. Like all differential stains, the Gram stain consists of four steps. These are summarized in the table below.

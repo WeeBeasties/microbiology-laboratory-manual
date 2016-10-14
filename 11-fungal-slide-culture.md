@@ -2,6 +2,8 @@
 
 ## Fungal Slide Culture
 
+-------------
+
 ### Background
 
 The fungi are a group of eukaryotic microbes that can exist as single-celled or multicellular forms. Single celled fungi are referred to as yeast, while the multicellular forms are called molds, mildews, or even mushrooms. The cell wall of fungi is composed of chitin, a type of polysaccharide. The fungal membrane differs from ours in the sort of sterol that is incorporated; we use cholesterol in our membranes while the fungi use ergosterol.
