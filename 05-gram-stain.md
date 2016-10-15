@@ -29,9 +29,9 @@ You will work in pods \(groups of four\) and stain eight different samples. Each
 
 Each person in your group must stain two of the following samples. You are responsible for recording accurate representations of all eight samples in your notebook. The samples that you will be observing consist of the following mixed cultures:
 
-A\) _Staphylococcus aureus \_and \_Klebsiella pneumoniae_
+A\) _Staphylococcus aureus_ and _Klebsiella pneumoniae_
 
-B\) _Staphylococcus \_aureus and Candida_ albicans\_
+B\) _Staphylococcus aureus_ and _Candida albicans_
 
 C\) _Enterococcus faecalis_ and _Moraxella catarrhalis_
 
@@ -45,13 +45,13 @@ G\) _Candida albicans_ and _Rhodospirillum rubrum_
 
 H\) Desquamated cheek cells
 
-The cheek cells can be obtained by scraping the inside of your cheek with a clean toothpick \(or your fingernail\). Apply the cells to a clean microscope slide, heat fix, and stain as described above.
+The cheek cells can be obtained by scraping the inside of your cheek with a clean toothpick. Apply the cells to a clean microscope slide, heat fix, and stain as described above.
 
 **Notebook Entry**
 
 To receive full credit for your work, your entry must contain the eight required components discussed in “Keeping a Notebook”. As a reminder, these sections are: a Table of Contents entry, title, the purpose, a procedure, your observations, your conclusions, the date, and the signatures. Take a moment to ensure that your notebook is complete and up-to-date. The most critical components are your observations and conclusions. Specific guidelines regarding your entry for this exercise are given below.
 
-✪ **Observations**
+**✪ Observations**
 
 • Carefully record the size, shape, arrangement, and color of the cells in the eight samples. This includes the two that you personally stained as well as the other six samples done in your pod.
 
@@ -70,31 +70,31 @@ You may record these data in one of two ways:
 3. Number the following cells from largest \(1\) to smallest \(5\) in size:
 
 
-_\_\_\_ Bacillus cereus\_
+\_\_\_ _Bacillus cereus_
 
-_\_\_\_ Moraxella catarrhalis\_
+\_\_\_ _Moraxella catarrhalis_
 
-_\_\_\_ Candida albicans\_
+\_\_\_ _Candida albicans_
 
 \_\_\_ Cheek cells
 
-_\_\_\_ Klebsiella pneumoniae\_
+\_\_\_ _Klebsiella pneumoniae_
 
 1. Give the 1\) size in µm, 2\) shape, 3\) arrangement, and 4\) Gram stain reaction for each of these microbes using proper terminology.
 
-_Bacillus cereus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Bacillus cereus_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Moraxella catarrhalis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Moraxella catarrhalis_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Candida albicans \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Candida albicans_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Enterococcus faecalis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Enterococcus faecalis_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Klebsiella pneumoniae \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Klebsiella pneumoniae_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Rhodospirillum rubrum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Rhodospirillum rubrum_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Staphylococcus aureus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_Staphylococcus aureus_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Housekeeping**
 
