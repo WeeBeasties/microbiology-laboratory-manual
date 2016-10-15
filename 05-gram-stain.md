@@ -2,13 +2,11 @@
 
 ## **Gram Stain**
 
--------------
+---
 
 ### **Background**
 
 The Gram stain was devised by a Danish physician, Hans Christian Gram, while he was working in Berlin in 1883. At the time, Dr. Gram was studying lung tissue sections from patients who had died of pneumonia. He was frustrated by the fact that common tissue staining procedures were inadequate to differentiate between host cells and microbial pathogens. So he set out to devise a more efficacious stain. Through a process of experimentation, Dr. Gram discovered that Gentian \(crystal\) violet and a solution of iodine mixed with potassium iodide formed a water-insoluble precipitate. This precipitate could be removed from host tissues and some microbial cells by an alcohol rinse. Many other microbes, however, retained the stain complex. This stain quickly became one of the main techniques used to initially characterize bacterial isolates. Like all differential stains, the Gram stain consists of four steps. These are summarized in the table below.
-
-
 
 | Step | Compound | Time | Gram Positive | Gram Negative |
 | --- | --- | --- | --- | --- |
@@ -16,8 +14,6 @@ The Gram stain was devised by a Danish physician, Hans Christian Gram, while he 
 | Mordant | Gram’s Iodine | 1 minute | Purple | Purple |
 | Decolorizer | Acetone Alcohol | ~ 5 seconds | Purple | Colorless |
 | Secondary Stain | Safranin | 1 minute | **Purple** | **Pink** |
-
-
 
 For over 100 years, the Gram stain reaction has been thought to be associated with the cellular architecture of the bacterial cell wall. However, the actual mechanism of this stain was only worked out relatively recently. During staining, crystal violet-iodine complexes form inside the bacterial cells and on the cell walls. The decolorizing agent \(acetone alcohol\) dehydrates the cells and causes some leakage across the cell membrane. The intracellular dye complexes are trapped within gram positive cells due to the dense peptidoglycan saculus following dehydration. In gram negatives, however, the outer membrane is dissolved by the decolorizer and the peptidoglycan layer is insufficient to retain the dye complexes. Hence, the gram negative cells lose their color. The counterstain allows these cells to be visualized. The mechanism involved in this process is illustrated in my little video below.
 
@@ -33,9 +29,9 @@ You will work in pods \(groups of four\) and stain eight different samples. Each
 
 Each person in your group must stain two of the following samples. You are responsible for recording accurate representations of all eight samples in your notebook. The samples that you will be observing consist of the following mixed cultures:
 
-A\) _Staphylococcus aureus _and _Klebsiella pneumoniae_
+A\) _Staphylococcus aureus \_and \_Klebsiella pneumoniae_
 
-B\) _Staphylococcus _aureus and Candida_ albicans_
+B\) _Staphylococcus \_aureus and Candida_ albicans\_
 
 C\) _Enterococcus faecalis_ and _Moraxella catarrhalis_
 
@@ -51,15 +47,9 @@ H\) Desquamated cheek cells
 
 The cheek cells can be obtained by scraping the inside of your cheek with a clean toothpick \(or your fingernail\). Apply the cells to a clean microscope slide, heat fix, and stain as described above.
 
-
-
 **Notebook Entry**
 
 To receive full credit for your work, your entry must contain the eight required components discussed in “Keeping a Notebook”. As a reminder, these sections are: a Table of Contents entry, title, the purpose, a procedure, your observations, your conclusions, the date, and the signatures. Take a moment to ensure that your notebook is complete and up-to-date. The most critical components are your observations and conclusions. Specific guidelines regarding your entry for this exercise are given below.
-
-
-
-
 
 ✪ **Observations**
 
@@ -71,10 +61,6 @@ You may record these data in one of two ways:
 
 2\) Using the panels below, draw an accurate representation of each sample. Make sure that you label each sample well. Also ensure that your drawings show the correct size, shape, arrangement, and color of each cell type.
 
-
-
-
-
 ✪ **Conclusions**
 
 1. List all of the prokaryotic cells seen in this exercise:
@@ -83,33 +69,32 @@ You may record these data in one of two ways:
 
 3. Number the following cells from largest \(1\) to smallest \(5\) in size:
 
-_\_\_\_ Bacillus cereus_
 
-_\_\_\_ Moraxella catarrhalis_
+_\_\_\_ Bacillus cereus\_
 
-_\_\_\_ Candida albicans_
+_\_\_\_ Moraxella catarrhalis\_
+
+_\_\_\_ Candida albicans\_
 
 \_\_\_ Cheek cells
 
-_\_\_\_ Klebsiella pneumoniae_
+_\_\_\_ Klebsiella pneumoniae\_
 
-4. Give the 1\) size in µm, 2\) shape, 3\) arrangement, and 4\) Gram stain reaction for each of these microbes using proper terminology.
+1. Give the 1\) size in µm, 2\) shape, 3\) arrangement, and 4\) Gram stain reaction for each of these microbes using proper terminology.
 
-_Bacillus cereus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_Bacillus cereus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Moraxella catarrhalis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_Moraxella catarrhalis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Candida albicans \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_Candida albicans \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Enterococcus faecalis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_Enterococcus faecalis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Klebsiella pneumoniae \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_Klebsiella pneumoniae \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Rhodospirillum rubrum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+_Rhodospirillum rubrum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_Staphylococcus aureus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-
+_Staphylococcus aureus \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Housekeeping**
 
@@ -137,6 +122,7 @@ We will be working with live microorganisms in this exercise. If spill the cultu
 
 7. _Staphylococcus aureus_ \(BSL-2\) This is commonly found on your skin and in your nose.
 
+
 Return the bacterial culture when you have completed your stains.
 
 **Compound light microscope**
@@ -155,6 +141,7 @@ Before returning your microscope to its respective bin, you should do the follow
 
 6. Carefully return your microscope to the correct cubby. Please orient the microscope such that the arm of the instrument faces out.
 
+
 **Contaminated materials**
 
 We should not contaminate anything today. If you do, however, soak the area with Roccal. Then clean up with paper towels and dispose of the mess in the lined silver buckets.
@@ -169,5 +156,5 @@ Before leaving the lab for the day, you should take a moment to disinfect the ce
 
 **Hand washing**
 
-You should always wash your hands with warm water and soap for 30 seconds before leaving the lab for the day. Dispose of the paper towel that you dried you hands with in the regular trash can. You should do this today \(and _**every day**_\) in the lab.
+You should always wash your hands with warm water and soap for 30 seconds before leaving the lab for the day. Dispose of the paper towel that you dried you hands with in the regular trash can. You should do this today \(and **_every day_**\) in the lab.
 
