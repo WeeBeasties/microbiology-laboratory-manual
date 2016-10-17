@@ -46,18 +46,6 @@ Eosinophil
 
 Basophil
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### ✪ Conclusions
 
 1. Were the percentages of each cell type similar to the normal range?
