@@ -19,6 +19,7 @@ Like sterile technique, microscopy, or biochemical analyses, keeping a current a
 **Personal information** – It will be important for me to be able to identify each of your notebooks when grading. To that end – I ask that you label the cover and spine of your notebook as illustrated in Figure 1. This information should include your full name, course name, lab section number, and lab room number.
 
 ![](/assets/fig-0-1.png)
+*<strong>Figure 1</strong>: An example of a properly labeled notebook cover and spine.*
 
 **Notebook checklist** – You should print and cut out an extra copy of the laboratory notebook checklist found on our FerrisConnect site. Securely tape this copy onto the page facing the table of contents in your laboratory notebook. Refer to these guidelines when making your entries to ensure that they meet all of the notebook expectations when I am grading them.
 
