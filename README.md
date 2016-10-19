@@ -1,18 +1,20 @@
-![Blood agar](/assets/blood.jpg)
-
 # Welcome!
 
->_This project is currently being assembled and cleaned up. Sorry for the mess._
+![Blood agar](/assets/blood.jpg)
 
-This is a free and open source Microbiology laboratory manual. It has been developed by Dr. Clifton Franklund at [Ferris State University](http://www.ferris.edu).
+>_This project is currently being assembled and cleaned up. Sorry for the mess. I hope to have this work finished by Christmas 2016..._
+
+This project is a free (as in pizza) and open source Microbiology laboratory manual. It has been developed by [Dr. Clifton Franklund](http://franklund-micro.com) at [Ferris State University](http://www.ferris.edu). This suite of over 30 laboratory exercises was created the fundamentals of General Microbiology and the skill of keeping a laboratory notebook. You can view or download this book in HTML, PDF, MOBI, or ePUB formats from this site.
 
 ## Get the files for yourself
 
-When this is completed, I will share the final notebook project in PDF, eBook, and MOBI formats on my [website](http://franklund-micro.com). I may consider using the Amazon and Apple bookstores to share these for free as well.  
+Microbiologists tend to do very similar labs. However, there are important variations in how we all do our work. Some labs have students use gloves, others do not. Some labs use incinerators while others use bunsen burners. There can also be variations in the types of microscopes, media, and microbial strains that are used. Therefore, other instructors are likely going to want to modify this book for their own use. 
 
-The source documents (all [Markdown](https://daringfireball.net/projects/markdown/) files) can be found in a public GitHub repo at [https://github.com/WeeBeasties/microbiology-laboratory-manual](https://github.com/WeeBeasties/microbiology-laboratory-manual). Feel free to fork my repo and modify these files to better reflect your own microbiology course.  
+**GOOD NEWS!**   
 
-In addition, all of the figures in this laboratory manual have been placed in a public FigShare repository at [https://figshare.com/projects/Microbiology_Laboratory_Manual/15366](https://figshare.com/projects/Microbiology_Laboratory_Manual/15366).
+All of the source documents (all [Markdown](https://daringfireball.net/projects/markdown/) files) can be found in a public GitHub repo at [https://github.com/WeeBeasties/microbiology-laboratory-manual](https://github.com/WeeBeasties/microbiology-laboratory-manual). Please feel free to fork my repo and modify these files to better reflect your own microbiology course. You can also reorder, delete, or add additional exercises to your copy. Using [GitBook](http://www.gitbook.com), you can then publish your modified version and share it with your students for no charge.
+
+In addition, all of the figures in this laboratory manual were created by me and have been placed in a public FigShare repository at [https://figshare.com/projects/Microbiology_Laboratory_Manual/15366](https://figshare.com/projects/Microbiology_Laboratory_Manual/15366). These are also free for reuse, modification, and distribution (with attribution).
 
 ## License
 
