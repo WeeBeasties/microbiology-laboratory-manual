@@ -1,7 +1,3 @@
-# Exercise 01  
-
-## Laboratory Safety  
-
 -------------
 
 ### Background
