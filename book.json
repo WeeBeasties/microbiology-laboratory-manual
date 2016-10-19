@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "katex",
-        "theme-packt"
+        "katex"
     ],
     "pluginsConfig": {}
 }
