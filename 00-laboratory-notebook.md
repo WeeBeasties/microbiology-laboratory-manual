@@ -1,7 +1,3 @@
-# Exercise 00
-
-## How To Keep a Laboratory Notebook  
-
 -------------
 
 ### Introduction to the Notebook  
