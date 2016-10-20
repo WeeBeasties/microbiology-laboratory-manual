@@ -1,10 +1,9 @@
-# Welcome!
 
 ![Blood agar](/assets/blood.jpg)
 
 >_This project is currently being assembled and cleaned up. Sorry for the mess. I hope to have this work finished by Christmas 2016..._
 
-This project is a free (as in pizza) and open source Microbiology laboratory manual. It has been developed by [Dr. Clifton Franklund](http://franklund-micro.com) at [Ferris State University](http://www.ferris.edu). This suite of over 30 laboratory exercises was created the fundamentals of General Microbiology and the skill of keeping a laboratory notebook. You can view or download this book in HTML, PDF, MOBI, or ePUB formats from this site.
+Welcome everyone. This project is a free (as in pizza) and open source Microbiology laboratory manual. It has been developed by [Dr. Clifton Franklund](http://franklund-micro.com) at [Ferris State University](http://www.ferris.edu). This suite of over 30 laboratory exercises was created the fundamentals of General Microbiology and the skill of keeping a laboratory notebook. You can view or download this book in HTML, PDF, MOBI, or ePUB formats from this site.
 
 ## Get the files for yourself
 
