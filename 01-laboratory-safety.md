@@ -1,5 +1,3 @@
-## Exercise 01  
-
 -------------
 
 ### Background
