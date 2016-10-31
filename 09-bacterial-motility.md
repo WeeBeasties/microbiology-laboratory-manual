@@ -28,7 +28,9 @@ Finally, you will need to prepare hanging drop preparations of _Klebsiella pneum
 
 · Try to determine which of the cultures \(if any\) are motile.
 
+take a look at this video:
 
+{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
 
 **Notebook Entry**
 
