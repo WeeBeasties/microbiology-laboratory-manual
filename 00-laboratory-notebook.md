@@ -1,5 +1,3 @@
-## Exercise 00  
-
 -------------
 
 ### Introduction to the Notebook  
