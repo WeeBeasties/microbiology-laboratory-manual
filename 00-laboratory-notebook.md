@@ -1,4 +1,4 @@
-## Keeping a Notebook
+## Keeping a Laboratory Notebook
 -------------
 
 ### Background  
