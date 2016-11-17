@@ -1,3 +1,4 @@
+
 ## Background
 
 **Right to Know / Chemical Labeling** - You have a right to know (and are expected to know) about all chemicals (including consumer products) you will be exposed to in the lab class. All materials will be labeled with the NAME (no abbreviations) of the material and its HAZARD if any (e.g. flammable, corrosive, oxidizer etc.).
