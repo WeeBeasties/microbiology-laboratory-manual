@@ -9,5 +9,5 @@ p {text-indent: .3in; margin-left:0; margin-right:0; margin-top:0; margin-bottom
 
 /* Here we make our headings centered We've also made the headings the same font as the body text */
 
- h1 { text-align: center; font-family:"Times New Roman"; page-break-after:avoid; page-break-before:avoid; } h2 { text-align: center; font-family:"Times New Roman"; page-break-after:avoid; page-break-before:avoid; } h3 { text-align: center; font-family:"Times New Roman"; page-break-after:avoid; page-break-before:avoid; }
+ h1 { text-align: center; font-family:"Times New Roman"; page-break-after:avoid; page-break-before:avoid; } h2 { text-align: center; font-family:"Times New Roman"; page-break-after:avoid; page-break-before:never; } h3 { text-align: center; font-family:"Times New Roman"; page-break-after:avoid; page-break-before:avoid; }
  
