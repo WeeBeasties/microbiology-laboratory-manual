@@ -1,4 +1,4 @@
-## Exercise 02  
+## Microscopy  
 
 -------------
 
