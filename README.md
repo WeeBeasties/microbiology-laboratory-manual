@@ -15,8 +15,15 @@ Microbiologists tend to do very similar labs. However, there are important varia
 
 Please feel free to fork my repo and modify these files to better reflect your own microbiology course. You can also reorder, delete, or add additional exercises to your copy. Using [GitBook](http://www.gitbook.com), you can then publish your modified version and share it with your students for no charge.
 
-In addition, all of the figures in this laboratory manual were created by me and have been placed in a public FigShare repository at [https://figshare.com/projects/Microbiology_Laboratory_Manual/15366](https://figshare.com/projects/Microbiology_Laboratory_Manual/15366). These are also free for reuse, modification, and distribution (with attribution).
+In addition, all of the figures in this laboratory manual were created by me and have been placed in a public FigShare repository at:
+
+>[https://figshare.com/projects/Microbiology_Laboratory_Manual/15366](https://figshare.com/projects/Microbiology_Laboratory_Manual/15366). 
+
+These are also free for reuse, modification, and distribution (with attribution).
 
 ### License
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+
