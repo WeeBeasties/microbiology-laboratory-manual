@@ -1,12 +1,8 @@
-## Microscopy  
-
--------------
-
-### Background
+## Background
 
 We are using Swift M7000 binocular compound light microscopes in our microbiology laboratories. This document pertains to the proper use of our particular microscopes. You are responsible for all of the material covered in both this document and any other reading assigned by your laboratory instructor.
 
-### **Major parts of the M7000 microscope:**
+## **Major parts of the M7000 microscope:**
 
 The essential parts of our microscopes are labeled to the left. All compound microscopes share most of these features. Note that our microscopes have two 10X ocular lenses \(binocular\). This make viewing more comfortable, but requires a few extra adjustments to be fully appreciated. The function of each component will be described below:
 
@@ -20,7 +16,7 @@ The essential parts of our microscopes are labeled to the left. All compound mic
 8. **Power switch**: Turns the lamp on and off.
 9. **Light source**: A halogen lamp.
 
-### **Procedure for taking out and using the microscope:**
+## **Procedure for taking out and using the microscope:**
 
 1. Go to the microscope cabinet and get the scope that was assigned to you. Carry it carefully back to your bench using two hands \(one holding the arm of the scope and one under the base\).
 
@@ -55,11 +51,11 @@ The essential parts of our microscopes are labeled to the left. All compound mic
 15. Finally, rotate the objective turret so that the 100X objective points toward your sample. You will need to place a drop of immersion oil onto your slide to use this objective. _Do not get oil on the other objective lenses!_ Then adjust the focus using the fine focus knobs \(red\). You may use the mechanical stage knobs to re-center your specimen in the field of view. This is the highest magnification that we can achieve in our labs – you should be able to clearly see the size and arrangement of bacterial cells.
 
 
-### **Calibrating and making measurements using the microscope:**
+## **Calibrating and making measurements using the microscope:**
 
 Your right ocular lens should have a measuring reticle \(scale\) with 100 unit-less divisions. These marks can be used to estimate the size of microbes and other structures. However, in order to accurately measure objects, we first need to calibrate – standardize – the reticle divisions. To this, we will use a special slide with a stage micrometer. These slides have a line etched on them that is **1 mm \(1,000 µm\)** long and divided into 100 equal segments \(**10 µm each**\). You will focus on this line using each of your objective lenses in turn. By aligning the scales, you can determine how many ocular divisions correspond to how many slide divisions. For example: in the image to the right, 30 ocular divisions spans 2o divisions on the stage micrometer scale. Since each stage micrometer division is 10 µm, that makes 20 X 10 µm = 200 µm. This is then divided by the number of ocular divisions 200 µm ÷ 30 = 6.7 µm per division. Now if you use this object lens and observe a diatom to be 12 divisions long, you can estimate its length to be 12 X 6.7 = about 80 µm. The apparent size of each division will vary as you adjust the total magnification of the microscope.
 
-### **Procedure for putting away the microscope:**
+## **Procedure for putting away the microscope:**
 
 When you have finished observing with your microscope, complete these steps before putting it back into the cabinet.
 
