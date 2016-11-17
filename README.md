@@ -1,4 +1,4 @@
-
+------
 ![Blood agar](/assets/blood.jpg)
 
 >_This project is currently being assembled and cleaned up. Sorry for the mess. I hope to have this work finished by Christmas 2016..._
