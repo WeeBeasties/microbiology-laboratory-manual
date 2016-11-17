@@ -1,7 +1,4 @@
-## Keeping a Laboratory Notebook
--------------
-
-### Background  
+## Background  
 
 Like sterile technique, microscopy, or biochemical analyses, keeping a current and accurate notebook is an essential skill in the microbiology laboratory. Your laboratory notebook will fulfill three primary functions in our course. First, it will give you the opportunity to develop a habit of properly documenting your laboratory activities. In a research lab, your notebook would be a permanent legal record of all your work. As such, it would be used to support grant applications, scientific publications, and patent applications by the members of your laboratory. Second, it will serve as your main study resource for the laboratory portion of our course. Your notebook should contain sufficient information to enable you or someone else to understand and reproduce the results of your work at a later date. This will be of particular importance as you review for our comprehensive laboratory practical exam at the end of this term. Finally, your notebook will help me to accurately evaluate your understanding of the laboratory materials and procedures that we use throughout the semester. By periodically collecting and grading your work, I can provide additional feedback to build upon your strengths and reinforce weaker areas so as to improve your learning this semester.
 
@@ -9,7 +6,7 @@ Like sterile technique, microscopy, or biochemical analyses, keeping a current a
 
 **Grading** – Your completed laboratory notebook will be worth 150 out of the 1,400 total points this semester. I will collect all notebooks on announced days during the semester (see your laboratory schedule for the exact dates). On each of these occasions, the accuracy, completeness, and format of your entries will be graded out of five possible points per laboratory exercise using the checklist provided in this document. I will also provide some feedback in your notebooks concerning the strengths and weaknesses exhibited in your entries. The point of this work, however, is not the grade. Rather, I am interested in helping you to create an accurate record of your activities and observations during the semester. In addition, completion of your laboratory notebook will give you an opportunity to apply the scientific method in the lab (_WIB_ pp. 1-8).
 
-### General Instructions
+## General Instructions
 
 **Penmanship** – Your laboratory notebook will be of little value to anyone if it is not legible and comprehensible when viewed at a later date. Begin each entry on an odd-numbered page (on the right side of the book). Write using a solvent-resistant ink pen. Write clearly, organize entries, include detailed drawings of observations when appropriate.
 
@@ -54,7 +51,7 @@ Like sterile technique, microscopy, or biochemical analyses, keeping a current a
 
 **Figure 8** Marking unused space
 
-### Laboratory Entry Format
+## Laboratory Entry Format
 
 Your notebook entries should all have a common format and appearance. The six critical components of your entries are covered in out ancillary text. A brief description of each of these components is provided on the following page.
 
@@ -70,7 +67,7 @@ Your notebook entries should all have a common format and appearance. The six cr
 
 **Signatures and dates** – One final point. You must sign and date every page of your notebook. In addition, you must have each page read and witnessed by a classmate. You can exchange notebooks with your lab partner to accomplish this.
 
-### Notebook Grading Details  
+## Notebook Grading Details  
 
 Each laboratory exercise entry is worth five points; the entire notebook is worth 150 points (as much as the laboratory practical), so it pays to take it seriously. Your notebooks will be collected periodically during the semester – the dates of collection are indicated in the laboratory schedule in the course syllabus. Each entry will be scored by the laboratory instructor. To simplify scoring, the following codes will be used to identify areas where improvement could be made.
 
