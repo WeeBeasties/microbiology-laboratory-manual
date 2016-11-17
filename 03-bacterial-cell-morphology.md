@@ -1,16 +1,12 @@
-## Bacterial Cell Morphology
-
--------------
-
-### Background
+## Background
 
 Being able to locate, observe, and record bacterial cells using our compound light microscopes is an essential laboratory skill. In today’s exercise, you will use commercially prepared slides containing three different bacterial strains. These bacterial cells represent the three most common shapes – cocci \(balls\), bacilli \(rods\), and spiral \(curved rods\). Some of the most common shapes and arrangements of bacterial cells are illustrated below. You will need to be conversant with this term for both our lecture and laboratory assignments.
 
-### Instructions
+## Instructions
 
 Each student should get one prepared microscope slide \(there will be three distinct patches of stained bacteria on slide\). Center and focus the slide using a low-power objective \(4X or 10X\) first. Then switch to high dry \(40X\) and focus using the fine focus – red knob – only. Finally, rotate the 40X objective out of the way and place one drop of immersion oil on the slide \(where it its being illuminated\). Rotate the 100X oil immersion lens into the drop of oil and focus using fine focus only. You should photograph or draw the cells that you see to scale. Use proper terminology to describe their shape and arrangement and give an estimate of their size in µm based upon your calibrated micrometer.
 
-### **Notebook Entry**
+## **Notebook Entry**
 
 To receive full credit for your work, your entry must contain the eight required components discussed in “Keeping a Notebook”. As a reminder, these sections are: a Table of Contents entry, title, the purpose, a procedure, your observations, your conclusions, the date, and the signatures. Take a moment to ensure that your notebook is complete and up-to-date. The most critical components are your observations and conclusions. Specific guidelines regarding your entry for this exercise are given below.
 
