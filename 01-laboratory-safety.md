@@ -1,11 +1,10 @@
-------
-## Background
+### Background
 
 **Right to Know / Chemical Labeling** - You have a right to know (and are expected to know) about all chemicals (including consumer products) you will be exposed to in the lab class. All materials will be labeled with the NAME (no abbreviations) of the material and its HAZARD if any (e.g. flammable, corrosive, oxidizer etc.).
 
 **Material Safety Data Sheets (MSDS)** - Additional information about chemicals/products is available from the Ferris Environmental Health and Safety officer in the form of Material Safety Data Sheets. Requests for MSDS will be honored. I suggest that you search for the appropriate information on-line at http://www.msdssearch.com. Use the DB tab to search several web databases.
 
-## Laboratory Attire
+### Laboratory Attire
 
 **Clothing** - The laboratory is a dirty and potentially dangerous place. To minimize the likelihood of personal injury you should avoid loose-fitting clothing. I also strongly recommend that you wear older clothes in the lab – the stains that we use bind very avidly to cloth.
 
@@ -17,7 +16,7 @@
 
 **Goggles** - Safety goggles must be worn when working with hazardous materials or conditions that can injure the eyes or skin. You will be instructed to don your goggles when required to do so.
 
-## General Policies
+### General Policies
 
 **Attendance** - Because the laboratory is an essential component of this course, I will be keeping attendance. Students with more than two unexcused absences will fail the course.
 
@@ -35,7 +34,7 @@
 
 **Spills** - If any water is spilled on the floor, it must be cleaned up immediately to prevent slip/fall injuries or damage to the rooms below and adjacent to the lab. If the water can’t be easily cleaned up, notify me so that I can get a spill kit.
 
-## Waste Disposal
+### Waste Disposal
 
 Housekeeping - You must clean up after yourself. Trash must not be left in the room, thrown into drawers, sinks, on the floor, etc. Sinks clogged with student trash can cause a flood in the lab.
 
@@ -49,7 +48,7 @@ Chemicals - I will provide containers and instruction for disposal of chemical w
 
 Contaminated materials - Small spills should be saturated with Roccal and wiped up with a paper towel. Place these towels in the orange autoclave bag at the front of the lab. When you are done with cultures, they should be disposed of in the orange autoclave bag. Contaminated glassware will be collected in a bin at the front of the lab for later decontamination.
 
-## Safety Equipment
+### Safety Equipment
 
 Eyewash - There is an emergency eye wash in the sink at the front of the lab. The path to this wash must remain clear during class. The shower stays ON when the handle is pulled. You must use the wash for 15 minutes minimum. During the 15-minute flushing, you should use your fingers to hold your eyelids open. Do not worry about looking silly or making a mess – your vision is at stake!
 
@@ -65,7 +64,7 @@ Evacuation Route - If the fire alarm sounds, or you are ordered out of the lab, 
 
 Tornado policy - If a tornado warning is announced during class, we will move to a designated storm shelter - in our case, the hallway outside of the lab. Keep all doors shut and avoid windows as much as possible. If you are unable to get out of the lab in time, take cover beneath our rather substantial laboratory benches.
 
-## Laboratory Hazards
+### Laboratory Hazards
 
 Bunsen burners - You must follow my instructions for lighting and using Bunsen burners in the lab. Never EVER leave a lit Bunsen burner unattended – the blue flame is difficult to see in a well-lit lab setting.
 
@@ -77,11 +76,11 @@ BSL-2: These microbes there pose a moderate hazard to people and the environment
 
 Other - Specific instructions will be provided when you are working with other potentially chemicals or conditions. These may include ultraviolet radiation, combustible gases or solutions, caustic chemicals, or high-voltage equipment. Stay alert and follow instructions.
 
-## Notebook Entry
+### Notebook Entry
 
 To receive full credit for your work, your entry must contain the eight required components discussed in “Keeping a Notebook”. As a reminder, these sections are: a Table of Contents entry, title, the purpose, a procedure, your observations, your conclusions, the date, and the signatures. Take a moment to ensure that your notebook is complete and up-to-date. The most critical components are your observations and conclusions. Specific guidelines regarding your entry for this exerci se are given below.
 
-✪ Observations
+#### ✪ Observations
 
 After reviewing our safety guidelines, you should identify and illustrate to locations of the following objects:
 
@@ -107,7 +106,7 @@ After reviewing our safety guidelines, you should identify and illustrate to loc
 
 You can illustrate all of this with a simple floor plan sketch or map.
 
-✪ Conclusions
+#### ✪ Conclusions
 
 · What is your laboratory drawer number?
 
@@ -120,7 +119,7 @@ You can illustrate all of this with a simple floor plan sketch or map.
 · What biosafety level are most of our bacterial stocks in the lab?
 
 
-## Housekeeping
+### Housekeeping
 
 To keep our laboratory clean, safe, and organized, we ask that you adhere to some basic housekeeping protocols. Please ensure that you complete each of the following when you have finished working on this exercise for the day.
 
