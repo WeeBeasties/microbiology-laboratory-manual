@@ -1,3 +1,4 @@
+## Laboratory Safety
 -------------
 
 ### Background
