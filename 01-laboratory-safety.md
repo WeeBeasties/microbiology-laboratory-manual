@@ -7,13 +7,13 @@
 ### Laboratory Attire
 
 **Clothing** - The laboratory is a dirty and potentially dangerous place. To minimize the likelihood of personal injury you should avoid loose-fitting clothing. I also strongly recommend that you wear older clothes in the lab – the stains that we use bind very avidly to cloth.
-
+<br /><br />
 **Hair** - If your hair is long enough to be tied back, please do so in the laboratory. The smell of singed hair in the Bunsen burners is most unpleasant.
-
+<br /><br />
 **Shoes** - Close-toed footwear must be worn at all times in the lab. Your shoes should be appropriate for the lab; avoid high heels!
-
+<br /><br />
 **Lab coat** - You are required to purchase and wear a lab coat during all laboratory sessions. The coat will protect you and your clothing from biological contamination and chemical spills. I may allow a non-standard garment in place of a lab coat provided that it is of an appropriate size and composition.
-
+<br /><br />
 **Goggles** - Safety goggles must be worn when working with hazardous materials or conditions that can injure the eyes or skin. You will be instructed to don your goggles when required to do so.
 
 ### General Policies
