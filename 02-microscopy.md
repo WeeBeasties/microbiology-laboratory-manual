@@ -1,3 +1,4 @@
+
 ## Background
 
 We are using Swift M7000 binocular compound light microscopes in our microbiology laboratories. This document pertains to the proper use of our particular microscopes. You are responsible for all of the material covered in both this document and any other reading assigned by your laboratory instructor.
