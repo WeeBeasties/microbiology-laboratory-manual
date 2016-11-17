@@ -1,4 +1,4 @@
-## Exercise 03
+## Bacterial Cell Morphology
 
 -------------
 
