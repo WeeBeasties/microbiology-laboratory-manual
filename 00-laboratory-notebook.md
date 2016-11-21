@@ -17,9 +17,13 @@ Like sterile technique, microscopy, or biochemical analyses, keeping a current a
 <br />
 **Notebook checklist** – You should print and cut out an extra copy of the laboratory notebook checklist found on our FerrisConnect site. Securely tape this copy onto the page facing the table of contents in your laboratory notebook. Refer to these guidelines when making your entries to ensure that they meet all of the notebook expectations when I am grading them.
 
-**Figure 2** Properly placed checklist
+![Checklist placement](fig-0-2 copy.png)
 
-![Free Radical:Users:anaerobe:Desktop:DSCN1039.JPG](export/assets/free_radicalusersanaerobedesktop.jpeg)**Table of contents** – Each laboratory exercise should have its own entry in the table of contents at the front of your notebook. Each entry should include the following information:
+*<strong>Figure 2</strong>: A properly placed checklist before the Table of Contents*
+
+<br />
+
+**Table of contents** – Each laboratory exercise should have its own entry in the table of contents at the front of your notebook. Each entry should include the following information:
 
 • The laboratory exercise number (in ascending numerical order)
 
