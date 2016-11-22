@@ -17,7 +17,7 @@ Like sterile technique, microscopy, or biochemical analyses, keeping a current a
 <br />
 **Notebook checklist** – You should print and cut out an extra copy of the laboratory notebook checklist found on our FerrisConnect site. Securely tape this copy onto the page facing the table of contents in your laboratory notebook. Refer to these guidelines when making your entries to ensure that they meet all of the notebook expectations when I am grading them.
 
-![Checklist placement](fig-0-2 copy.png)
+![Checklist placement](/assets/fig-0-2.png)
 
 *<strong>Figure 2</strong>: A properly placed checklist before the Table of Contents*
 
