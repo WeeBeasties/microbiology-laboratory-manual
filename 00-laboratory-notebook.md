@@ -33,9 +33,12 @@ Like sterile technique, microscopy, or biochemical analyses, keeping a current a
 
 • The first page number for the exercise entry
 
-**Figure 3** Proper table of contents
+![](/assets/fig-0-3.png)
+**Figure 3** Proper Table of Contents entries
 
-![Free Radical:Users:anaerobe:Desktop:DSCN1040.JPG](export/assets/free_radicalusersanaerobedesktop.jpeg)**Multi-page entries** – Most of our laboratory exercises will require more than one page to complete the entire entry. Fortunately, our notebooks provide an easy mechanism to facilitate longer entries. A the bottom of each leaf of your notebook, spaces are provided to indicate continuing pages. If you have filled in page 12 (for example) simply indicate “Continued on page 13” on the bottom of page 12 and “Continued from page 12” on page 13\. You can (and should) use both sides of each notebook leaf. The only exception to this rule is that each new exercise should begin on an odd-numbered page. If this requires leaving the preceding page blank, you should mark it as described later in this document.
+<br />
+
+**Multi-page entries** – Most of our laboratory exercises will require more than one page to complete the entire entry. Fortunately, our notebooks provide an easy mechanism to facilitate longer entries. A the bottom of each leaf of your notebook, spaces are provided to indicate continuing pages. If you have filled in page 12 (for example) simply indicate “Continued on page 13” on the bottom of page 12 and “Continued from page 12” on page 13\. You can (and should) use both sides of each notebook leaf. The only exception to this rule is that each new exercise should begin on an odd-numbered page. If this requires leaving the preceding page blank, you should mark it as described later in this document.
 
 **Figure 4** Continuing pages
 
