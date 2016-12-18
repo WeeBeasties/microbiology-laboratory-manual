@@ -10,12 +10,12 @@ Bacterial endospores are survival cells. Some soil bacteria that are members of 
 
 
 
-| Step | Compound | Time | Endospore | Vegetative cell |
-| --- | --- | --- | --- | --- |
-| Primary Stain | Malachite Green |  | Colorless | Green |
-| Mordant | Heat | 15 minutes | Green | Green |
-| Decolorizer | Water | 1 minute | Green | Colorless |
-| Secondary Stain | Safranin | 1 minute | **Green** | **Pink** |
+| Step | Compound | Time | Endospore | Vegetative cell | Image |
+| --- | --- | --- | --- | --- | --- |
+| Primary Stain | Malachite Green |  | Colorless | Green | ![Primary stain](/assets/endospore1.png) |
+| Mordant | Heat | 15 minutes | Green | Green | ![Mordant](/assets/endospore2.png) |
+| Decolorizer | Water | 1 minute | Green | Colorless | ![Decolorizer](/assets/endospore3.png) |
+| Secondary Stain | Safranin | 1 minute | **Green** | **Pink** | ![Secondary](/assets/endospore4.png) |
 
 ### **Instructions**
 
