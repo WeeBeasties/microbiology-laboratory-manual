@@ -8,16 +8,16 @@
 
 Bacterial endospores are survival cells. Some soil bacteria that are members of the Firmicutes \(primarily in the genus _Bacillus_ and _Clostridium_\) readily form them under adverse conditions. Endospores are produced in a form of cellular differentiation in response to starvation conditions. Once formed, endospores can withstand chemical agents, antibiotics, heating, cold, and even some exposure to radiation. Unfortunately, they are also resistant to staining. Today we will perform our second differential stain to visualize these structures. The procedure for the stain is shown below and is a modification of the original method devised by Dorner in 1922. In our stain today, we are going to use the heat of a steam bath to drive the primary stain \(malachite green\) into the tough endospore walls. Once stained, the spores are very difficult to destain. Therefore - unlike the Gram stain - , you may apply the water colorization step for as long as you like.
 
-![Endospore stain](/assets/Endospores.jpg)
+![Endospore stain](/assets/fig-07-01.jpg)
 **Figure 7.1** *Endospores visualized using the Dorner staining procedure.*
 <p></p>
 
 | Step | Compound | Time | Endospore | Vegetative cell | Image |
 | --- | --- | --- | --- | --- | --- |
-| Primary Stain | Malachite Green |  | Colorless | Green | ![Primary stain](/assets/endospore1.png) |
-| Mordant | Heat | 15 minutes | Green | Green | ![Mordant](/assets/endospore2.png) |
-| Decolorizer | Water | 1 minute | Green | Colorless | ![Decolorizer](/assets/endospore3.png) |
-| Secondary Stain | Safranin | 1 minute | **Green** | **Pink** | ![Secondary](/assets/endospore4.png) |
+| Primary Stain | Malachite Green |  | Colorless | Green | ![Primary stain](/assets/fig-07-02.png) |
+| Mordant | Heat | 15 minutes | Green | Green | ![Mordant](/assets/fig-07-03.png) |
+| Decolorizer | Water | 1 minute | Green | Colorless | ![Decolorizer](/assets/fig-07-04.png) |
+| Secondary Stain | Safranin | 1 minute | **Green** | **Pink** | ![Secondary](/assets/fig-07-05.png) |
 
 ### **Instructions**
 
