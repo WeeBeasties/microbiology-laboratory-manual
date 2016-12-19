@@ -9,7 +9,7 @@
 Bacterial endospores are survival cells. Some soil bacteria that are members of the Firmicutes \(primarily in the genus _Bacillus_ and _Clostridium_\) readily form them under adverse conditions. Endospores are produced in a form of cellular differentiation in response to starvation conditions. Once formed, endospores can withstand chemical agents, antibiotics, heating, cold, and even some exposure to radiation. Unfortunately, they are also resistant to staining. Today we will perform our second differential stain to visualize these structures. The procedure for the stain is shown below and is a modification of the original method devised by Dorner in 1922. In our stain today, we are going to use the heat of a steam bath to drive the primary stain \(malachite green\) into the tough endospore walls. Once stained, the spores are very difficult to destain. Therefore - unlike the Gram stain - , you may apply the water colorization step for as long as you like.
 
 ![Endospore stain](/assets/fig-07-01.jpg)
-**Figure 7.1** *Endospores visualized using the Dorner staining procedure.*
+**Figure 7.1** *Endospores visualized using the Dorner staining procedure (1,000X total magnification).*
 <p></p>
 
 | Step | Compound | Time | Endospore | Vegetative cell | Image |
