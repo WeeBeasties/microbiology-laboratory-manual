@@ -6,12 +6,8 @@ Bacterial endospores are survival cells. Some soil bacteria that are members of 
 **Figure 7.1** *Endospores visualized using the Dorner staining procedure (1,000X total magnification).*
 <p></p>
 
-| Step | Compound | Time | Endospore | Vegetative cell | Image |
-| --- | --- | --- | --- | --- | --- |
-| Primary Stain | Malachite Green |  | Colorless | Green | ![Primary stain](/assets/fig-07-02.png) |
-| Mordant | Heat | 15 minutes | Green | Green | ![Mordant](/assets/fig-07-03.png) |
-| Decolorizer | Water | 1 minute | Green | Colorless | ![Decolorizer](/assets/fig-07-04.png) |
-| Secondary Stain | Safranin | 1 minute | **Green** | **Pink** | ![Secondary](/assets/fig-07-05.png) |
+![Staining procedure](/assets/fig-07-02.png)
+**Figure 7.2** *The procedure for performing an endospore stain.*
 
 ### **Instructions**
 
