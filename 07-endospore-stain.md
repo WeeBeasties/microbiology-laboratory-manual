@@ -15,11 +15,11 @@ Bacterial endospores are survival cells. Some soil bacteria that are members of 
 
 ### **Instructions**
 
-One person in your pair will stain a sample of _Bacillus cereus _today from two kinds of media \(Brain Heart Infusion Agar and Tryptic Soy Agar\). One of these media is _much_ richer in nutrients than the other. Your can stain both preparations on one microscope slide. For each culture, you should perform the following steps:
+One person in your pair will stain a sample of _Bacillus cereus_ today from two kinds of media, Brain Heart Infusion Agar (BHIA) and Tryptic Soy Agar (TSA). One of these media is _much_ richer in nutrients than the other. Your can stain both preparations on one microscope slide. For each culture, you should perform the following steps:
 
 • Put a loop of water on one slide of a clean microscope slide.
 
-• Flame sterilize a loop and add a small quantity of the _Bacillus cereus _culture_._
+• Flame sterilize a loop and add a small quantity of the _Bacillus cereus_ culture.
 
 • Allow the sample to air dry and heat fix.
 
