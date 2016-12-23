@@ -31,23 +31,20 @@ To receive full credit for your work, your entry must contain the eight required
 
 
 
-✪ **Observations**
+####✪ **Observations**
 
-• Carefully record the size, shape, arrangement, and color of the cells in your samples. Search around your slide and make sure that you see both the vegetative cells and the endospores.
+Carefully record the size, shape, arrangement, and color of the cells in your samples. Search around your slide and make sure that you see both the vegetative cells and the endospores.
 
 You may record these data in one of two ways:
 
-1\) Record the view of the ocular micrometers and bacterial cells in focus for each of the eight different samples. Make sure that you clearly label your samples.
+1) Use your digital camera to capture a view of the ocular micrometers and bacterial cells in focus for each of the samples. Print a color copy of each image and securely affix them to your laboratory notebook with tape. Please make sure that you clearly label each of your samples.
 
-2\) Using the panels below, draw an accurate representation of each sample. Make sure that you label each sample well. Also ensure that your drawings show the correct size, shape, arrangement, and color of each cell type.
+2) Using the panels below, draw an accurate representation of each sample. Make sure that you label each sample well. Also ensure that your drawings show the correct size, shape, arrangement, and color of each cell type.
 
-
-
-
+![Observations](/assets/Observations.png)
 
 
-
-✪ **Conclusions**
+####✪ **Conclusions**
 
 1. What color would these vegetative cells be in the Gram stain?
 
@@ -57,7 +54,7 @@ You may record these data in one of two ways:
 
 4. Was there a difference in the endospore formation on these media? If so, what might account for this difference.
 
-**Housekeeping**
+###**Housekeeping**
 
 To keep our laboratory clean, safe, and organized, we ask that you adhere to some basic housekeeping protocols. Please ensure that you complete each of the following when you have finished working on this exercise for the day.
 
