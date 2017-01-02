@@ -13,7 +13,7 @@ Microbiologists tend to do very similar labs. However, there are important varia
 >[https://github.com/WeeBeasties/microbiology-laboratory-manual](https://github.com/WeeBeasties/microbiology-laboratory-manual). 
 
 
-Please feel free to fork my repo and modify these files to better reflect your own microbiology course. You can also reorder, delete, or add additional exercises to your copy. If you wish, you can submit a Pull request to have your modifications considered for inclusion in this work. Using [GitBook](http://www.gitbook.com), you can also publish your modified version and share it with your students for no charge with your own GitBook site.
+Please feel free to fork my repo and modify these files to better reflect your own microbiology course. You can also reorder, delete, or add additional exercises to your copy. If you wish, you can submit a Pull request to have your modifications considered for inclusion in this work. Using [GitBook](http://www.gitbook.com), you can also publish your modified version and share it with your students for no charge with on own account.
 
 In addition, all of the figures in this laboratory manual were created by me and are being placed in a public FigShare repository at:
 
