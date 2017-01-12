@@ -1,7 +1,13 @@
 ------
 ## Background
 
-Being able to locate, observe, and record bacterial cells using our compound light microscopes is an essential laboratory skill. In today’s exercise, you will use commercially prepared slides containing three different bacterial strains. These bacterial cells represent the three most common shapes – cocci \(balls\), bacilli \(rods\), and spiral \(curved rods\). Some of the most common shapes and arrangements of bacterial cells are illustrated below. You will need to be conversant with this term for both our lecture and laboratory assignments.
+Being able to locate, observe, and record bacterial cells using our compound light microscopes is an essential laboratory skill. In today’s exercise, you will use commercially prepared slides containing three different bacterial strains. These bacterial cells represent the three most common shapes – balls, rods, and curved rods. Some of the most common shapes and arrangements of bacterial cells are illustrated below. You will need to be conversant with this term for both our lecture and laboratory assignments.
+
+![](/assets/shapes.png)  
+
+**Figure 3.1** - _Common shapes and arrangements of bacterial cells_.
+
+
 
 ## Instructions
 
